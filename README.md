@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @linoriva66
-- 👀 I’m interested in Tech & Design.
-- 🌱 I’m currently learning Front-end web technologies.
+👋 Hi, I’m Frank Bruno
+👀 I’m interested in Tech & Design.
+🌱 I’m currently learning Front-end web technologies.
 
 <!---
 - 💞️ I’m looking to collaborate on ...
