@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Frank Bruno
 - 👀 I’m interested in Tech & Design.
-- 🌱 I’m currently learning Front-end web technologies.
+- 🌱 I’m currently learning Data Science, ML & Cybersecurity.
 
 <!---
 - 💞️ I’m looking to collaborate on ...
