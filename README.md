@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Frank Bruno
-- 👀 I’m interested in Tech & Design.
-- 🌱 I’m currently learning Data Science, ML & Cybersecurity.
+- 👋 Hi, I’m Frank
+- ✨ I’m working as a Product Owner.
+- 🌱 I’m currently making videos about Product Design & learning about game development.
 
 <!---
 - 💞️ I’m looking to collaborate on ...
