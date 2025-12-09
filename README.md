@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Frank
-- ✨ I’m working as a Product Owner.
+- 💼 I’m working as a Product Owner.
 - 🌱 I’m currently making videos about Product Design & learning about game development.
 
 <!---
